@@ -27,7 +27,7 @@ Each section contains:
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/BrendonKTech/Python-Learning-Resources.git
+   git clone https://github.com/BrendonKTech/Python-Learning.git
    ```
 2. **Navigate to the desired section:**
    ```sh
