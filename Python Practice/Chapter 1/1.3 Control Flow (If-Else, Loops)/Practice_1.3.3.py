@@ -1,0 +1,1 @@
+# Find the sum of all odd numbers from 1 to 100 using a loop.

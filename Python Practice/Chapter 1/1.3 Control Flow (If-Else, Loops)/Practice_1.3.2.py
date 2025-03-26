@@ -1,0 +1,1 @@
+# Write a loop to print all numbers from 1 to 50 that are divisible by 7.

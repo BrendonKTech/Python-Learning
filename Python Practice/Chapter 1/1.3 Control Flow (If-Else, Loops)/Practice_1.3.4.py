@@ -1,0 +1,1 @@
+# Write a program that takes a number n and prints a multiplication table for n.
